@@ -11,4 +11,4 @@ Contained in the R file
 Contained in the pdf
 
 ### Results
-Contained within 'Ratings New Customer.csv'
+Contained within 'Ratings New Customer.xlsx'
